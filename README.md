@@ -33,6 +33,6 @@
                 │
                 ├── models/
                 │   ├── tinyllama.gguf       # LLM model, this needs to be downloaded locally | because this is llm model which is really has large fiel size, so stop complaning and read this 😐 
-                │   └── whisper/             # Whisper models (auto-downloaded)
+                │   └── whisper/             # Whisper models | download this using `git clone https://huggingface.co/Systran/faster-whisper-base`
                 │
                 └── requirements.txt
