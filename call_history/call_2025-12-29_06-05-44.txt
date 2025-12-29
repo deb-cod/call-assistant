@@ -1,0 +1,12 @@
+CALL TRANSCRIPT
+====================
+Caller: My name is Optimus
+Assistant: Did I hear your name as Optimus?
+Caller: Yes.
+Assistant: Thank you Optimus. What is this regarding?
+Caller: This is a the appreciation on what the projector Kindly give him the message regarding the same.
+Assistant: Thank you. I will inform the user.
+
+CALL SUMMARY
+====================
+The caller is expressing their gratitude for the projector's assistance in the previous call. They are thanking the assistant for their assistance in delivering the message regarding the appreciation.
