@@ -47,4 +47,3 @@ class AICallBot(App):
         # Voice Loop
         self.engine.say("Hello, I am a local AI assistant answering for my owner. How can I help?")
         self.engine.runAndWait()
-        # Add your STT -> LLM -> TTS loop logic here
