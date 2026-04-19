@@ -45,3 +45,5 @@ If the user does not pick up within that window, the system auto‑answers the c
 The audio is processed through a local speech‑to‑text engine, which converts the caller’s spoken words into text. That text is then passed to a local language model (LLM), which generates an appropriate response.
 
 The response is converted back into audio using local text‑to‑speech, and the caller hears the AI’s synthesized voice speaking on behalf of the user.
+and there is a change in architecture in which the whole application will be converted into an Android app using kivy... 
+the LLM model will be changed to quen 0.5 billion parameter model and the overall architecture will be changed soon
