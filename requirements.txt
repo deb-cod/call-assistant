@@ -2,3 +2,7 @@ faster-whisper
 llama-cpp-python
 numpy
 sounddevice
+
+
+kivy
+jnius
